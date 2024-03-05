@@ -2,7 +2,7 @@
 A simple Todo application built using Next JS, Tailwind CSS and MongoDB.
 
 ## Demo link:
-Access my site at [google.com](https://google.com)
+Access my site at [TodoNext App](https://todoapp-nextjs-joelstan.vercel.app/)
 
 ## Table of Content:
 
